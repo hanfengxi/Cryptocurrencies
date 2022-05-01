@@ -19,24 +19,26 @@ For this assignment there are four technical analysis deliverables
 
 ## Deliverable 1: Preprocessing the Data for PCA
 
-![This is an image]()
+![This is an image](supporting_images/1.png)
 
-![This is an image]()
+
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
-![This is an image]()
+![This is an image](supporting_images/2.png)
 
 ## Deliverable 3: Clustering Cryptocurrencies Using K-means
 
-![This is an image]()
+![This is an image](supporting_images/3.png)
 
-![This is an image]()
+![This is an image](supporting_images/3-2.png)
 
 ## Deliverable 4: Visualizing Cryptocurrencies Results
 
-![This is an image]()
+![This is an image](supporting_images/4-1.png)
 
-![This is an image]()
+![This is an image](supporting_images/4-2.png)
 
-![This is an image]()
+![This is an image](supporting_images/4-3.png)
+
+![This is an image](supporting_images/4-4.png)
